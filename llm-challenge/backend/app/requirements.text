@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+python-dotenv
+passlib[bcrypt]
+pydantic
+pinecone-client
+PyPDF2
+python-docx
+requests
+jose
+streamlit 
